@@ -18,7 +18,7 @@ public static void bubbleSort(int[] num) {
 
 	//loop one time for each element of the array
 	for(int i = 0; i < num.length; i++) {
-		//each loop goes through all the elements of the array
+		//each loop goes through all the elements of the 
 		for(int j = 0; j < num.length-1; j++) {
 			//and swap the places of the two elements if they are
 			//in the wrong places 
